@@ -53,3 +53,4 @@ print(f"{user_number} USD is the same as {rounded_amount} CAD")
 name = "lee cat"
 print(name.upper())
 print(name.title())
+
